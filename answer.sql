@@ -16,6 +16,8 @@ SELECT *
 FROM customers
 WHERE address2 IS NOT null;
 
+/* address is not null
+
 /*
 * DB: Store
 * Table: customers
